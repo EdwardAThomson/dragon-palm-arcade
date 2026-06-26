@@ -2,5 +2,6 @@
   { "file": "adder.dgc", "name": "Adder" },
   { "file": "hoard.dgc", "name": "Dragon Hoard" },
   { "file": "magic-screen.dgc", "name": "Magic Screen" },
-  { "file": "tennis.dgc", "name": "Dragon Tennis" }
+  { "file": "tennis.dgc", "name": "Dragon Tennis" },
+  { "file": "dungeon.dgc", "name": "Dungeon Crawl" }
 ]

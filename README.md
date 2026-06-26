@@ -27,6 +27,7 @@ into `carts/` and add `{ "file": "name.dgc", "name": "Display Name" }` to the ma
 | `hoard.dgc` | Dragon Hoard |
 | `magic-screen.dgc` | Magic Screen |
 | `tennis.dgc` | Dragon Tennis |
+| `dungeon.dgc` | Dungeon Crawl |
 
 ## Deploy (Cloudflare Pages)
 
@@ -44,6 +45,7 @@ The console emulator and the launcher page are based on the MIT-licensed
 [Dragon Palm](https://github.com/0xe25f/dragon-palm) and
 [Dragon Carts](https://github.com/0xe25f/dragon-carts) projects by 0xe25f. The bundled
 `adder`, `magic-screen`, and `tennis` carts are from those projects (MIT). `hoard.dgc`
-(Dragon Hoard) is an original cart by Edward Thomson.
+(Dragon Hoard) and `dungeon.dgc` (Dungeon Crawl, a tile RPG) are original carts by Edward
+Thomson.
 
 This repository is MIT licensed — see [LICENSE](LICENSE).
